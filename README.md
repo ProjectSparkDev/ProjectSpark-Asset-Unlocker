@@ -8,6 +8,8 @@ a tool that edits the asset databases of the game project spark to unlock all hi
 - Admin privilege
 
 ## how to:
+
+### make sure to keep a backup copy of your game folder, this program does not affect your saves
 1. download the latest [release](https://github.com/ProjectSparkDev/ProjectSpark-Asset-Unlocker/releases/latest)
 2. extract the exe and the dll files to the root of the game files (for example `C:\Program Files (x86)\Project Spark`)
 3. right click on `ProjectSpark Asset Unlocker.exe` and click Run as admin
